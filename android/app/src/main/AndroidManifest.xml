@@ -1,8 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+ #Step 1 : Install icons and chane name app
     <application
-        android:label="learn_flutter_67_2_2"
+        android:label="Hey Yed Krok"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/lanuncher_icon">
         <activity
             android:name=".MainActivity"
             android:exported="true"
