@@ -1,4 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- Step 3 : Check Internet connection-->
+<uses-permission android:name="android.permission.INTERNET"/>
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
  #Step 1 : Install icons and chane name app
     <application
         android:label="Hey Yed Krok"
